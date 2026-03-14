@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -O2 -std=c99
 SRC = src/benedictum.c
-BIN = benedictum
+BIN = benedictum-cli
 ifeq ($(OS),Windows_NT)
     EXE = $(BIN).exe
 else
