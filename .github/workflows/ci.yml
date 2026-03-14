@@ -14,7 +14,9 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Compile
-        run: make
+        run: |
+          make
+          chmod +x benedictum
 
       - name: Run tests
         run: make test
