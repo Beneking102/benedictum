@@ -8,6 +8,8 @@ Every word that isn't a command is silently ignored, so your source code can be 
 
 ---
 
+[![CI](https://github.com/Beneking102/benedictum/actions/workflows/ci.yml/badge.svg)](https://github.com/Beneking102/benedictum/actions/workflows/ci.yml)
+
 ## Language Reference
 
 ### Core Commands (v1.0)
