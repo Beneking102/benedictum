@@ -1,0 +1,9 @@
+Benedictum --- Cat
+Reads input and echoes it back, character by character.
+The simplest useful program: audi (listen), then loop dic (speak) and audi again.
+
+audi
+ora
+    dic
+    audi
+amen
